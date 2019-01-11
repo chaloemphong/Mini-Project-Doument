@@ -2,6 +2,17 @@
 ระบบเอกสาร ที่สามารถสร้างลิ้งไฟล์ ผู้ที่เปิดดูเอกสาร PDF ไม่สามารถพิมพ์เอกสาร หรือ ดาวน์โหลดไปใช้งานได้ 
 เหมาะกับการเอาไปใช้ควบคุมเอกสารภายในองค์กร
 <br>
+
+Bootstrap Theme Admin ALT2<br>
+
+PDFJS<br>
+https://mozilla.github.io/pdf.js/<br>
+
+อันนี้วิธีการใช้งานPDFJS นะครับ<br>
+https://www.youtube.com/watch?v=TstpR_gGb-4<br>
+
+
+
 <b>Login</b>
 <br>
 User: admin
